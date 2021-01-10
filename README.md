@@ -1,5 +1,5 @@
 # golangFamily
-【golang面试+golang学习指南+golang知识图谱】 一份涵盖大部分golang程序员所需要掌握的核心知识。
+【超全golang面试题合集+golang学习指南+golang知识图谱+成长路线】 一份涵盖大部分golang程序员所需要掌握的核心知识。
 
 
 <p align="center">
