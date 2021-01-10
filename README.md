@@ -55,8 +55,8 @@
 
 
 - 进阶
-  - 包管理
-    学go mod就够了！
+  - 包管理  
+    [学go mod就够了！](https://studygolang.com/articles/27293)
   - 优化
     - [golang面试题：怎么避免内存逃逸？](https://mp.weixin.qq.com/s/4QAxGEr9KxtZXyfSG8VoCQ) 
     - [golang面试题：简单聊聊内存逃逸？](https://mp.weixin.qq.com/s/4YYR1eYFIFsNOaTxL4Q-eQ) 
@@ -163,8 +163,8 @@
 1. 常用包    
 <a name="常用包"></a>  <a name="常用包"></a>      
 
-|    常用包  |   说明  |   常用函数  |  
-|:---------:|:------:|:------: |  
+|    常用包  |   说明  |  
+|:---------:|:------:| 
 | fmt | 实现格式化的输入输出操作，其中的fmt.Printf()和fmt.Println()是开发者使用最为频繁的函数。   |  
 | io | 实现了一系列非平台相关的IO相关接口和实现，比如提供了对os中系统相关的IO功能的封装。我们在进行流式读写（比如读写文件）时，通常会用到该包。   |  
 | bufio | 它在io的基础上提供了缓存功能。在具备了缓存功能后， bufio可以比较方便地提供ReadLine之类的操作。   |  
@@ -389,6 +389,8 @@
 |     | template/parse | 为template构建解析树 |  
 |     | unicode/utf16| 实现了UTF-16序列的的编码和解码 |  
 |     | unicode/utf8| 实现了支持以UTF-8编码的文本的函数和常数 |  
+
+
 
 
 
