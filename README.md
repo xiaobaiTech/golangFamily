@@ -394,19 +394,6 @@
 
 
 
-<style>
-table th:first-of-type {
-    width: 4cm;
-}
-table th:nth-of-type(2) {
-    width: 150pt;
-}
-table th:nth-of-type(3) {
-    width: 8em;
-}
-</style>
-
-
 <br> </br> 
 <a name="优秀的开源库"></a>  <a name="优秀的开源库"></a> 
 5. 其他优秀的开源工具分类
