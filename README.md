@@ -10,9 +10,6 @@
 </p>
 
 
-
-# 【吐血整理】2021最新golang学习成长路线图
-
 ![](https://cdn.jsdelivr.net/gh/zhaolunallen/picture/2021-1-8/1610113159235-GO%E6%88%90%E9%95%BF%E8%B7%AF%E7%BA%BF.jpg)
 
 
