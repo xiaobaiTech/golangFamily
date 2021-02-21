@@ -154,8 +154,11 @@
     - [toml转golang struct](https://xuri.me/toml-to-go/)
     - [yaml转golang struct](https://yaml.to-go.online/)
     
+- 图解网络基础   
+  - [硬核！漫画图解HTTP知识点+面试题](https://mp.weixin.qq.com/s/T41YBEmG4lkxokDLzRxVgA) 
     
-    
+- 骚话连篇  
+  - [程序员防猝死指南](https://mp.weixin.qq.com/s/PwIbKDTi0uSxhUWC56sJYg) 
     
     
 <br> </br> 
