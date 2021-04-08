@@ -156,10 +156,18 @@
     
 - 图解网络基础   
   - [硬核！漫画图解HTTP知识点+面试题](https://mp.weixin.qq.com/s/T41YBEmG4lkxokDLzRxVgA) 
+  - [TCP粘包 数据包：我只是犯了每个数据包都会犯的错 |硬核图解](https://mp.weixin.qq.com/s/PwIbKDTi0uSxhUWC56sJYg) 
+  - [硬核图解！30张图带你搞懂！路由器，集线器，交换机，网桥，光猫有啥区别？](https://mp.weixin.qq.com/s/BJqp72EyEMahxi2XOfSrBQ) 
     
 - 骚话连篇  
   - [程序员防猝死指南](https://mp.weixin.qq.com/s/PwIbKDTi0uSxhUWC56sJYg) 
+  - [妙啊！程序猿的第一本互联网黑话指南](https://mp.weixin.qq.com/s/btksE3RUxtioSYrYpChEeQ) 
     
+    
+ 
+ 
+
+
     
 <br> </br> 
 - 其他
