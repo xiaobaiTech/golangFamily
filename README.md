@@ -1051,7 +1051,7 @@
 
 <a name="公众号"></a>  <a name="公众号"></a>
 
-![](https://cdn.jsdelivr.net/gh/zhaolunallen/picture/2021-1-6/1609890505711-%E9%BB%98%E8%AE%A4%E6%A0%87%E9%A2%98_%E5%8A%A8%E6%80%81%E6%A8%AA%E7%89%88%E4%BA%8C%E7%BB%B4%E7%A0%81_2021-01-06-0.gif)
+![](https://cdn.jsdelivr.net/gh/xiaobaiTech/image/默认标题_动态横版二维码_2021-03-19-0.gif)
 
 ![](https://cdn.jsdelivr.net/gh/zhaolunallen/picture/2021-1-10/1610269930614-640.png)
 
