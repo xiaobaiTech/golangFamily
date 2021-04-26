@@ -267,7 +267,7 @@
 3. 必看项目
 |    项目  |   地址  | 说明| 
 |:---------:|:------:|:------:|
-|gin |  [github.com/olivere/elastic](https://github.com/olivere/elastic)  | 轻量级web框架，很多公司都是基于它进行魔改 |
+|gin |  [github.com/gin-gonic/gin](https://github.com/gin-gonic/gin)  | 轻量级web框架，很多公司都是基于它进行魔改 |
 |beego   |  [github.com/beego/beego](https://github.com/beego/beego)  | 也是web框架，比较全能 | 
 |kratos   |  [github.com/go-kratos/kratos](https://github.com/go-kratos/kratos)  | bilibili开源的微服务框架，b站出品必属于精品 | 
 |TiDB   |  [github.com/pingcap/tidb](https://github.com/pingcap/tidb)  | 见识过mysql性能瓶颈之后你会想要选择的一款数据库 |
@@ -533,7 +533,7 @@
 |   [outboxer](https://github.com/italolelis/outboxer) |  Outboxer是一个实现库模式的go库。| 
 |   [pglock](https://cirello.io/pglock) |  PostgreSQL支持的分布式锁定实现。| 
 |   [raft](https://github.com/hashicorp/raft) |  HashiCorp的Raft共识协议的Golang实现。| 
-|   [raft](https://github.com/coreos/etcd/tree/master/raft) |  围棋实施筏一致协议，由CoreOS的。| 
+|   [raft](https://github.com/coreos/etcd/tree/master/raft) |  ETCD中实现的Raft协议。| 
 |   [rain](https://github.com/cenkalti/rain) |  BitTorrent客户端和库。| 
 |   [redis-lock](https://github.com/bsm/redislock) |  使用Redis的简化分布式锁定实现。| 
 |   [resgate](https://resgate.io/) |  用于构建REST，实时和RPC API的实时API网关，其中所有客户端都可以无缝同步。| 
