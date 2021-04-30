@@ -87,7 +87,7 @@
     - 什么是写屏障、混合写屏障，如何实现？
     - 开源库里会有一些类似下面这种奇怪的用法：`var _ io.Writer = (*myWriter)(nil)`，是为什么？
     - [GMP模型](https://zboya.github.io/post/go_scheduler/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
-    - [动图图解，GMP里为什么要有P](https://mp.weixin.qq.com/s/Z67Xx6sxNgxv8Gi9N_MOVg)
+    - [动图图解，GMP里为什么要有P](https://mp.weixin.qq.com/s?__biz=MzAwMDAxNjU4Mg==&mid=2247484769&idx=1&sn=4d813bdf0977b3415db8faf4645ee216)
     - 协程之间是怎么调度的
     - gc的stw是怎么回事
     - 利用golang特性，设计一个QPS为500的服务器
