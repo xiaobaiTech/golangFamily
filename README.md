@@ -79,36 +79,6 @@
   
  
     
-    
-  - 包
-    - [常用官方包说明](#常用包)
-    - [常用第三方包说明](#三方包)
-    - [常用框架](#框架)
-    - [完整标准库列表](#完整包)
-    - [优秀的第三方库](#优秀的开源库)
-       - [音频和音乐](#音频和音乐)
-       - [数据结构:Go中的通用数据结构和算法](#数据结构)
-       - [分布式系统:Go中的通用数据结构和算法](#分布式系统)
-       - [电子邮件:实现电子邮件创建和发送的库和工具](#电子邮件)
-       - [嵌入式脚本语言:在go代码中嵌入其他语言](#嵌入式脚本语言)
-       - [错误处理](#错误处理)
-       - [处理文件和文件系统的库](#文件)
-       - [金融:会计和财务软件包](#金融)
-       - [游戏开发:游戏开发相关库](#游戏开发)
-       - [地理位置:地理相关的位置信息和工具库](#地理位置)
-       - [编译器相关:转到其他语言](#编译器)
-       - [Goroutines:用于管理和使用Goroutines的工具](#Goroutines)
-       - [图形界面:用于构建GUI应用程序的库](#图形界面)
-       - [图片:用于处理图像的库](#图片)
-       - [物联网:物联网设备编程库](#物联网)
-       - [JSON格式:用于处理JSON的库](#JSON格式)
-       - [机器学习:常用机器学习库](#机器学习)
-       - [微软办公软件](#微软办公软件)
-       - [自然语言处理](#自然语言处理)
-       - [网络:与网络各层配合使用的库](#网络)
-       - [视频:用于处理视频的库](#视频)
-  
-    
   - 高级特性
     - [golang面试题：能说说uintptr和unsafe.Pointer的区别吗？](https://mp.weixin.qq.com/s/IkOwh9bh36vK6JgN7b3KjA)
     - [golang 面试题：reflect（反射包）如何获取字段 tag？为什么 json 包不能导出私有变量的 tag？](https://mp.weixin.qq.com/s/WK9StkC3Jfy-o1dUqlo7Dg)
@@ -117,6 +87,7 @@
     - 什么是写屏障、混合写屏障，如何实现？
     - 开源库里会有一些类似下面这种奇怪的用法：`var _ io.Writer = (*myWriter)(nil)`，是为什么？
     - [GMP模型](https://zboya.github.io/post/go_scheduler/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+    - [动图图解，GMP里为什么要有P](https://mp.weixin.qq.com/s/Z67Xx6sxNgxv8Gi9N_MOVg)
     - 协程之间是怎么调度的
     - gc的stw是怎么回事
     - 利用golang特性，设计一个QPS为500的服务器
@@ -135,7 +106,8 @@
   
   - 源码阅读
     - [sync.map](https://qcrao.com/2020/05/06/dive-into-go-sync-map/)
-    - net/http
+    - net/http 
+      - [i/o timeout ， 希望你不要踩到这个net/http包的坑](https://mp.weixin.qq.com/s/UBiZp2Bfs7z1_mJ-JnOT1Q) 
     - [mutex](https://mp.weixin.qq.com/s/MntwgIJ2ynOAdwnypWUjZw)
     - [channel](https://draveness.me/golang/docs/part3-runtime/ch06-concurrency/golang-channel/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
     - [context](https://draveness.me/golang/docs/part3-runtime/ch06-concurrency/golang-context/)
@@ -167,6 +139,35 @@
     
     
  
+- 包
+  - [常用官方包说明](#常用包)
+  - [常用第三方包说明](#三方包)
+  - [常用框架](#框架)
+  - [完整标准库列表](#完整包)
+  - [优秀的第三方库](#优秀的开源库)
+     - [音频和音乐](#音频和音乐)
+     - [数据结构:Go中的通用数据结构和算法](#数据结构)
+     - [分布式系统:Go中的通用数据结构和算法](#分布式系统)
+     - [电子邮件:实现电子邮件创建和发送的库和工具](#电子邮件)
+     - [嵌入式脚本语言:在go代码中嵌入其他语言](#嵌入式脚本语言)
+     - [错误处理](#错误处理)
+     - [处理文件和文件系统的库](#文件)
+     - [金融:会计和财务软件包](#金融)
+     - [游戏开发:游戏开发相关库](#游戏开发)
+     - [地理位置:地理相关的位置信息和工具库](#地理位置)
+     - [编译器相关:转到其他语言](#编译器)
+     - [Goroutines:用于管理和使用Goroutines的工具](#Goroutines)
+     - [图形界面:用于构建GUI应用程序的库](#图形界面)
+     - [图片:用于处理图像的库](#图片)
+     - [物联网:物联网设备编程库](#物联网)
+     - [JSON格式:用于处理JSON的库](#JSON格式)
+     - [机器学习:常用机器学习库](#机器学习)
+     - [微软办公软件](#微软办公软件)
+     - [自然语言处理](#自然语言处理)
+     - [网络:与网络各层配合使用的库](#网络)
+     - [视频:用于处理视频的库](#视频)
+  
+    
  
 
 
