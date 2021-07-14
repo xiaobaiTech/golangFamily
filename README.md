@@ -129,10 +129,12 @@
     - [yaml转golang struct](https://yaml.to-go.online/)
     
 - 图解网络基础   
-  - [硬核！漫画图解HTTP知识点+面试题](https://mp.weixin.qq.com/s/T41YBEmG4lkxokDLzRxVgA) 
-  - [TCP粘包 数据包：我只是犯了每个数据包都会犯的错 |硬核图解](https://mp.weixin.qq.com/s/PwIbKDTi0uSxhUWC56sJYg) 
-  - [硬核图解！30张图带你搞懂！路由器，集线器，交换机，网桥，光猫有啥区别？](https://mp.weixin.qq.com/s/BJqp72EyEMahxi2XOfSrBQ) 
-  - [动图图解！既然IP层会分片，为什么TCP层也还要分段？](https://mp.weixin.qq.com/s/VLHCu6b5Anx8HEj_gQZfOg)
+  - [漫画图解HTTP知识点+面试题](https://mp.weixin.qq.com/s/T41YBEmG4lkxokDLzRxVgA) 
+  - [TCP粘包 数据包：我只是犯了每个数据包都会犯的错](https://mp.weixin.qq.com/s/PwIbKDTi0uSxhUWC56sJYg) 
+  - [30张图带你搞懂！路由器，集线器，交换机，网桥，光猫有啥区别？](https://mp.weixin.qq.com/s/BJqp72EyEMahxi2XOfSrBQ) 
+  - [既然IP层会分片，为什么TCP层也还要分段？](https://mp.weixin.qq.com/s/VLHCu6b5Anx8HEj_gQZfOg)
+  - [断网了，还能ping通 127.0.0.1 吗？为什么？](https://mp.weixin.qq.com/s/XsZYiLxZ0AXjVMBgWCnmzw) 
+  - [连接一个 IP 不存在的主机时，握手过程是怎样的？](https://mp.weixin.qq.com/s/Tg-D9I2xi2ZqKZXOJ_Vbxw) 
     
 - 骚话连篇  
   - [程序员防猝死指南](https://mp.weixin.qq.com/s/PwIbKDTi0uSxhUWC56sJYg) 
