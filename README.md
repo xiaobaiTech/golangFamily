@@ -18,7 +18,8 @@
 后续文章和内容会不断更新到 [github项目](https://github.com/xiaobaiTech/golangFamily) 中，欢迎关注。
 
 
-<img src="https://cdn.jsdelivr.net/gh/xiaobaiTech/image/默认标题_动态横版二维码_2021-03-19-0.gif" width="500px" />
+
+<img src="https://cdn.jsdelivr.net/gh/xiaobaiTech/image/%E5%B0%8F%E7%99%BDdebug%E5%8A%A8%E5%9B%BE%E4%BA%8C%E7%BB%B4%E7%A0%81.gif" width="500px" />
 
 # 目录(善用Ctrl+F)
 
