@@ -1248,7 +1248,8 @@
 
 <a name="公众号"></a>  <a name="公众号"></a>
 
-![](https://cdn.jsdelivr.net/gh/xiaobaiTech/image/默认标题_动态横版二维码_2021-03-19-0.gif)
+欢迎关注公众号:【小白debug】
+![](https://cdn.jsdelivr.net/gh/xiaobaiTech/image/%E5%B0%8F%E7%99%BDdebug%E5%8A%A8%E5%9B%BE%E4%BA%8C%E7%BB%B4%E7%A0%81.gif)
 
 ![](https://cdn.jsdelivr.net/gh/zhaolunallen/picture/2021-1-10/1610269930614-640.png)
 
