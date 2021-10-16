@@ -4,8 +4,8 @@
 
 <p align="center">
   <a href="#公众号"><img src="https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-%E5%B0%8F%E7%99%BDdebug-blue" alt="公众号"></a>
-  <a href="https://juejin.cn/user/4001878057422087"><img src="https://img.shields.io/badge/juejin-掘金-blue.svg" alt="公众号"></a>
-  <a href="https://www.zhihu.com/people/jin-ji-de-ren-shan-ren"><img src="https://img.shields.io/badge/zhihu-知乎-informational" alt="投稿"></a>
+  <a href="https://juejin.cn/user/4001878057422087"><img src="https://img.shields.io/badge/%E6%8E%98%E9%87%91-%E5%B0%8F%E7%99%BDdebug-yellow" alt="公众号"></a>
+  <a href="https://www.zhihu.com/people/jin-ji-de-ren-shan-ren"><img src="https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-%E5%B0%8F%E7%99%BDdebug-yellowgreen" alt="投稿"></a>
   <a href="https://blog.csdn.net/ilini"><img src="https://img.shields.io/badge/csdn-CSDN-red.svg" alt="投稿"></a>
   <a href="https://xiaobaidebug.top/"><img src="https://img.shields.io/badge/%E5%8D%9A%E5%AE%A2-%E5%B0%8F%E7%99%BDdebug-brightgreen" alt="博客"></a>
   
