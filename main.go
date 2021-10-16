@@ -6,6 +6,6 @@ import (
 
 
 func main() {
-	fmt.Println("公众号:【golang小白成长记】")
+	fmt.Println("公众号:【小白debug】")
 }
 
