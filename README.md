@@ -22,7 +22,65 @@
 
 
 
-<img src="https://cdn.jsdelivr.net/gh/xiaobaiTech/image/%E5%B0%8F%E7%99%BDdebug%E5%8A%A8%E5%9B%BE%E4%BA%8C%E7%BB%B4%E7%A0%81.gif" width="500px" />
+<p align="center">
+  <a href="#公众号"><img src="https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-%E5%B0%8F%E7%99%BDdebug-blue" alt="公众号"></a>
+  <a href="https://juejin.cn/user/4001878057422087"><img src="https://img.shields.io/badge/%E6%8E%98%E9%87%91-%E5%B0%8F%E7%99%BDdebug-yellow" alt="公众号"></a>
+  <a href="https://www.zhihu.com/people/jin-ji-de-ren-shan-ren"><img src="https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-%E5%B0%8F%E7%99%BDdebug-yellowgreen" alt="投稿"></a>
+  <a href="https://blog.csdn.net/ilini"><img src="https://img.shields.io/badge/csdn-CSDN-red.svg" alt="投稿"></a>
+  <a href="https://xiaobaidebug.top/"><img src="https://img.shields.io/badge/%E5%8D%9A%E5%AE%A2-%E5%B0%8F%E7%99%BDdebug-brightgreen" alt="博客"></a>
+
+ <br>
+
+大家好，我是小白。大家知道，我一直以来都是`golang`的忠实粉丝，在学习和参与面试的过程中遇到过很多golang的问题。
+
+最近花了些时间整理了一下golang程序员成长路线和高频面试题，这是一份涵盖大部分golang程序员所需要掌握的**核心知识**。
+
+
+
+面试题集PDF还会**不断迭代更新**，后续最新版本都会在我的个人公众号「**小白debug**」里第一时间发布！
+
+在公众号里回复【**面试**】即可获得！！
+
+如果大家看完电子书，觉得内容还不错，强烈希望大家能在**微信公众号**里搜索关注，并**星标**我的公众号，第一时间获取最新更新内容！
+
+<img src="https://cdn.jsdelivr.net/gh/xiaobaiTech/image/%E6%89%AB%E7%A0%81_%E6%90%9C%E7%B4%A2%E8%81%94%E5%90%88%E4%BC%A0%E6%92%AD%E6%A0%B7%E5%BC%8F-%E6%A0%87%E5%87%86%E8%89%B2%E7%89%88.png" style="zoom:30%" />
+
+
+
+<img src="https://cdn.jsdelivr.net/gh/xiaobaiTech/image/%E6%98%9F%E6%A0%87%E5%B0%8F%E7%99%BDdebug.png" style="zoom:15%" />
+
+
+
+还有**技术划水【交流群】**，点击公众号右下角【**联系我**】或**扫描以下二维码**，备注“**进群**”，欢迎大家进群交流~。
+
+如果大家对网络基础感兴趣的话，公众号里也有非常多相关的文章，也欢迎关注收看哈。**图解网络相关**的文章，已经重新整理成一份的电子书。**在公众号内回复【网络】，就可以获得整理的PDF电子书。**
+
+
+
+同时我也为公众号粉丝准备了一些学习资料，关注公众号并回复【**go**】、【**操作系统**】、【**网络**】即可获得相应学习资料！
+
+<img src="https://cdn.jsdelivr.net/gh/xiaobaiTech/image/image-20211007115901574.png" style="zoom:20%" />
+
+
+
+并且，学习资料也会**不断更新**，后续会根据读者需求整理更多相关资源，有需要的读者也可以在公众号内留言。
+
+<br>
+
+
+
+<br>
+
+### 最后
+
+- 欢迎大家访问我的**博客** [https://xiaobaidebug.top/](https://xiaobaidebug.top/) 。
+- 在公众号内回复【**面试**】，可以获得整理的**golang面试PDF电子书**，适合快速备战面试查漏补缺。
+- 在公众号内回复【**网络**】，可以获得整理的**图解PDF电子书**，适合巩固基础。
+- 在公众号内回复【**视频**】，可以获得整理的**视频教程**，内含**实战教程**，适合小白上路。
+
+
+
+
 
 # 目录(善用Ctrl+F)
 
