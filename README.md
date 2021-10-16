@@ -27,10 +27,10 @@
   - 新手
     - [Golang开发新手常犯的50个错误](https://blog.csdn.net/gezhonglei2007/article/details/52237582)
   - 数据类型
-    - [连nil切片和空切片一不一样都不清楚？那BAT面试官只好让你回去等通知了。](https://mp.weixin.qq.com/s/myGJ4TrEoVGqLAN3tbZHMw) 
-    - [golang面试题：字符串转成byte数组，会发生内存拷贝吗？](https://mp.weixin.qq.com/s/d80m0hgoKcHfKp4ZXH1M4A)  
-    - [golang面试题：翻转含有中文、数字、英文字母的字符串](https://mp.weixin.qq.com/s/OIRPOszH-rTJp03AeRgnRQ)  
-    - [golang面试题：拷贝大切片一定比小切片代价大吗？](https://mp.weixin.qq.com/s/hPYdiHYRufimyKT4FcW4HA) 
+    - [连nil切片和空切片一不一样都不清楚？那BAT面试官只好让你回去等通知了。](https://mp.weixin.qq.com/s/sW4PD1MiaunURNDIU4BbQQ) 
+    - [golang面试题：字符串转成byte数组，会发生内存拷贝吗？](https://mp.weixin.qq.com/s/qmlPuGVISx8NYp2b9LrqnA)  
+    - [golang面试题：翻转含有中文、数字、英文字母的字符串](https://mp.weixin.qq.com/s/ssinnUM22PHPWRug8EzAkg)  
+    - [golang面试题：拷贝大切片一定比小切片代价大吗？](https://mp.weixin.qq.com/s/8Dp2eCYzDdBbxAG5-jNevQ) 
     - map不初始化使用会怎么样
     - map不初始化长度和初始化长度的区别
     - map承载多大，大了怎么办
@@ -39,7 +39,8 @@
     - 怎么判断一个数组是否已经排序
     - 普通map如何不用锁解决协程安全问题
     - array和slice的区别
-    - [golang面试题：json包变量不加tag会怎么样？](https://mp.weixin.qq.com/s/zZM_iLuopyenI0LD6VYZGw) 
+    - [golang面试题：json包变量不加tag会怎么样？](https://mp.weixin.qq.com/s/bZlKV_BWSqc-qCa4DrsCbg) 
+    - [golang面试题：reflect（反射包）如何获取字段tag？为什么json包不能导出私有变量的tag？](https://mp.weixin.qq.com/s/P7TEx2mInwEktXTEE6JDWQ)
     - 零切片、空切片、nil切片是什么
     - slice深拷贝和浅拷贝
     - map触发扩容的时机，满足什么条件时扩容？
@@ -47,23 +48,45 @@
     - 自定义类型切片转字节切片和字节切片转回自动以类型切片
     - make和new什么区别
     - slice ，map，chanel创建的时候的几个参数什么含义
+    - slice，len，cap，共享，扩容
     - 线程安全的map怎么实现
+    - go slice 和 array 区别
+    - go struct能不能比较？
+    - map如何顺序读取？
+    - go中怎么实现set
+    - map 的扩容机制是什么？
+    - 使用值为 nil 的 sice、map 会发生什么？ 
+    - Golang 有没有 this 指针？
+    - Golang 语言中局部变量和全局变量的缺省值是什么
+    - Golang 中的引用类型包含哪些?
+    - 使用range 迭代 map 是有序的吗?
+    - slice 的扩容机制是什么？
+    - Golang 中指针运算有哪些?
+    - 类型的值可以修改吗？  
+    - 解析 JSON 数据时，默认将数值当做哪种类型
+    - array 类型的值作为函数参数是引用传递还是值传递？
 
-    
+       
     
   - 流程控制
     - [昨天那个在for循环里append元素的同事，今天还在么？](https://mp.weixin.qq.com/s/SHxcspmiKyPwPBbhfVxsGA) 
-    - [golang面试官：for select时，如果通道已经关闭会怎么样？如果只有一个case呢？](https://mp.weixin.qq.com/s/lK6I353Iw08robqpmPB6-g) 
-  
-
+    - [golang面试官：for select时，如果通道已经关闭会怎么样？如果只有一个case呢？](https://mp.weixin.qq.com/s/Oa3eExufo2Req_9IrDys-g) 
+    - go defer（for defer）
+    - select可以用于什么？
+    - context包的用途？  
+    - select 可以用于实现哪些功能？
+    - 在循杯内执行 defer 语句会发生什么?
+    - switch 中如何强制执行下一个 case 代码块?
+    - 如何从 panic 中恢复?
 
 - 进阶
   - 包管理  
     [学go mod就够了！](https://studygolang.com/articles/27293)
+    
   - 优化
-    - [golang面试题：怎么避免内存逃逸？](https://mp.weixin.qq.com/s/4QAxGEr9KxtZXyfSG8VoCQ) 
-    - [golang面试题：简单聊聊内存逃逸？](https://mp.weixin.qq.com/s/4YYR1eYFIFsNOaTxL4Q-eQ) 
-    - [给大家丢脸了，用了三年golang，我还是没答对这道内存泄漏题](https://mp.weixin.qq.com/s/T6XXaFFyyOJioD6dqDJpFg)
+    - [golang面试题：怎么避免内存逃逸？](https://mp.weixin.qq.com/s/VzRTHz1JaDUvNRVB_yJa1A) 
+    - [golang面试题：简单聊聊内存逃逸？](https://mp.weixin.qq.com/s/wJmztRMB1ZAAIItyMcS0tw) 
+    - [给大家丢脸了，用了三年golang，我还是没答对这道内存泄漏题](https://mp.weixin.qq.com/s/-agtdhlW7Yj7S88a0z7KHg)
     - 内存碎片化问题
     - chan相关的goroutine泄露的问题
     - string相关的goroutine泄露的问题
@@ -73,22 +96,28 @@
     
     
   - 并发编程
-    - [golang面试题：对已经关闭的的chan进行读写，会怎么样？为什么？](https://mp.weixin.qq.com/s/qm-8pvHBVRmLQQ4_DHc1Tw) 
+    - [golang面试题：对已经关闭的的chan进行读写，会怎么样？为什么？](https://mp.weixin.qq.com/s/izbZ3JRqX6jI6Wn7bV6xNQ) 
     - [golang面试题：对未初始化的的chan进行读写，会怎么样？为什么？](https://mp.weixin.qq.com/s/ixJu0wrGXsCcGzveCqnr6A)  
     - sync.map 的优缺点和使用场景
     - sync.Map的优化点
-  
+    - 主协程如何等其余协程完再操作
+    - 有缓存的channel和没有缓存的channel区别是什么？
+    - 协程通信方式有哪些？
+    - channel底层实现
+    - 读写锁底层是怎么实现的？
+    - 请你说说golang的CSP思想
+    - channel 是怎么保证线程安全？
  
     
   - 高级特性
-    - [golang面试题：能说说uintptr和unsafe.Pointer的区别吗？](https://mp.weixin.qq.com/s/IkOwh9bh36vK6JgN7b3KjA)
+    - [golang面试题：能说说uintptr和unsafe.Pointer的区别吗？](https://mp.weixin.qq.com/s/PSkz0zj-vqKzmIKa_b-xAA)
     - [golang 面试题：reflect（反射包）如何获取字段 tag？为什么 json 包不能导出私有变量的 tag？](https://mp.weixin.qq.com/s/WK9StkC3Jfy-o1dUqlo7Dg)
     - 协程和线程的差别
     - 垃圾回收的过程是怎么样的？
     - 什么是写屏障、混合写屏障，如何实现？
     - 开源库里会有一些类似下面这种奇怪的用法：`var _ io.Writer = (*myWriter)(nil)`，是为什么？
     - [GMP模型](https://zboya.github.io/post/go_scheduler/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
-    - [动图图解，GMP里为什么要有P](https://mp.weixin.qq.com/s?__biz=MzAwMDAxNjU4Mg==&mid=2247484769&idx=1&sn=4d813bdf0977b3415db8faf4645ee216)
+    - [动图图解，GMP里为什么要有P](https://mp.weixin.qq.com/s/SEE2TUeZQZ7W1BKkmnelAA)
     - 协程之间是怎么调度的
     - gc的stw是怎么回事
     - 利用golang特性，设计一个QPS为500的服务器
@@ -99,16 +128,30 @@
     - [go栈扩容和栈缩容，连续栈的缺点](https://segmentfault.com/a/1190000019570427)
     - golang怎么做代码优化
     - [golang隐藏技能:怎么访问私有成员](https://www.jianshu.com/p/7b3638b47845)
-    
+    - 协程可以自己主动让出 CPU 吗？
+    - 断言时会发生拷贝吗
+    - 接口是怎么实现的？
+    - 协程与进程，线程的区别是什么？协程有什么优势？
+    - 为什么小对象多了会造成 gc 压力?
+    - 一个协程能保证绑定在一个内核线程上吗？
+    - 闭包怎么实现的,闭包的主要应用场景
+    - 两次 GC 周期重叠会引发什么问题，GC 触发机制是什么样的？
+    - Goroutinue 什么时候会被挂起？
+    - Data Race 问题怎么检测？怎么解决? 
+    - Golang 触发异常的场景有哪些?
+    - net/http包中client如何实现长连接？
+    - net/http怎么做连接池和长链接？
     
   - 问题排查
     - [trace](https://mp.weixin.qq.com/s?__biz=MzA4ODg0NDkzOA==&mid=2247487157&idx=1&sn=cbf1c87efe98433e07a2e58ee6e9899e&source=41#wechat_redirect) 
     - [pprof](https://mp.weixin.qq.com/s/d0olIiZgZNyZsO-OZDiEoA) 
+    - 什么是 goroutine 泄漏?
+    - 当go服务部署到线上了，发现有内存泄露，该怎么处理
   
   - 源码阅读
     - [sync.map](https://qcrao.com/2020/05/06/dive-into-go-sync-map/)
     - net/http 
-      - [i/o timeout ， 希望你不要踩到这个net/http包的坑](https://mp.weixin.qq.com/s/UBiZp2Bfs7z1_mJ-JnOT1Q) 
+      - [i/o timeout ， 希望你不要踩到这个net/http包的坑](https://mp.weixin.qq.com/s/7Fl5MuCl-G6wIQQiAqLAKA) 
     - [mutex](https://mp.weixin.qq.com/s/MntwgIJ2ynOAdwnypWUjZw)
     - [channel](https://draveness.me/golang/docs/part3-runtime/ch06-concurrency/golang-channel/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
     - [context](https://draveness.me/golang/docs/part3-runtime/ch06-concurrency/golang-context/)
@@ -130,18 +173,24 @@
     - [yaml转golang struct](https://yaml.to-go.online/)
     
 - 图解网络基础   
-  - [漫画图解HTTP知识点+面试题](https://mp.weixin.qq.com/s/T41YBEmG4lkxokDLzRxVgA) 
-  - [TCP粘包 数据包：我只是犯了每个数据包都会犯的错](https://mp.weixin.qq.com/s/PwIbKDTi0uSxhUWC56sJYg) 
-  - [30张图带你搞懂！路由器，集线器，交换机，网桥，光猫有啥区别？](https://mp.weixin.qq.com/s/BJqp72EyEMahxi2XOfSrBQ) 
-  - [既然IP层会分片，为什么TCP层也还要分段？](https://mp.weixin.qq.com/s/VLHCu6b5Anx8HEj_gQZfOg)
-  - [断网了，还能ping通 127.0.0.1 吗？为什么？](https://mp.weixin.qq.com/s/XsZYiLxZ0AXjVMBgWCnmzw) 
-  - [连接一个 IP 不存在的主机时，握手过程是怎样的？](https://mp.weixin.qq.com/s/Tg-D9I2xi2ZqKZXOJ_Vbxw) 
+  - [漫画图解HTTP知识点+面试题](https://mp.weixin.qq.com/s/wNRoDoW_VEqiq8JelePj2g) 
+  - [TCP粘包 数据包：我只是犯了每个数据包都会犯的错](https://mp.weixin.qq.com/s/0-YBxU1cSbDdzcZEZjmQYA) 
+  - [30张图带你搞懂！路由器，集线器，交换机，网桥，光猫有啥区别？](https://mp.weixin.qq.com/s/6eQ00Wzss61XUTO8xeL3iA) 
+  - [既然IP层会分片，为什么TCP层也还要分段？](https://mp.weixin.qq.com/s/YpQGsRyyrGNDu1cOuMy83w)
+  - [断网了，还能ping通 127.0.0.1 吗？为什么？](https://mp.weixin.qq.com/s/Gml_xxvGjq224L7zCoXm5w) 
+  - [连接一个 IP 不存在的主机时，握手过程是怎样的？](https://mp.weixin.qq.com/s/Czv0CxDKqr2QNItO4aNZMA) 
+  - [动图图解！代码执行send成功后，数据就发出去了吗？](https://mp.weixin.qq.com/s/87BZzLmcntA1snJIIhUR0w)
+  - [活久见！TCP两次挥手，你见过吗？那四次握手呢？](https://mp.weixin.qq.com/s/Z0EqSihRaRbMscrZJl-zxQ)
+  - [动图图解！收到RST，就一定会断开TCP连接吗？](https://mp.weixin.qq.com/s/Fr6o6gRiIUIspV9-jR9snw)
+  - [动图图解！没有accept，能建立TCP连接吗？](https://mp.weixin.qq.com/s/n17NjGRab1u5eXkOCro1gg)
+  - [来了来了！小白图解网络电子书和博客都来啦！](https://mp.weixin.qq.com/s/yZPorh6js8cq0_6FjfnGZA)
     
 - 骚话连篇  
-  - [程序员防猝死指南](https://mp.weixin.qq.com/s/PwIbKDTi0uSxhUWC56sJYg) 
-  - [妙啊！程序猿的第一本互联网黑话指南](https://mp.weixin.qq.com/s/btksE3RUxtioSYrYpChEeQ) 
-  - [我感觉，我可能要拿图灵奖了。。。](https://mp.weixin.qq.com/s/rLLfj883lJbWr21wHAJTJA)
-    
+  - [程序员防猝死指南](https://mp.weixin.qq.com/s/PP80aD-GQp7VtgyfHj392g) 
+  - [妙啊！程序猿的第一本互联网黑话指南](https://mp.weixin.qq.com/s/lpmCHabbFarXwR1ZJwJ_kg) 
+  - [我感觉，我可能要拿图灵奖了。。。](https://mp.weixin.qq.com/s/K9a_TTYRmw5vQzCsCQTQrw)
+  - [爷青回！最近很火的朋友圈怀旧小电视源码来啦！看到最后一个视频我大呼好家伙！](https://mp.weixin.qq.com/s/9_Au8hb-_5fNDiN4s0tNHw)
+  - [我要开留言啦！](https://mp.weixin.qq.com/s/xawnze8S1SGmtK6rQ6bkMQ)  
     
  
 - 包
