@@ -22,15 +22,6 @@
 
 
 
-<p align="center">
-  <a href="#公众号"><img src="https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-%E5%B0%8F%E7%99%BDdebug-blue" alt="公众号"></a>
-  <a href="https://juejin.cn/user/4001878057422087"><img src="https://img.shields.io/badge/%E6%8E%98%E9%87%91-%E5%B0%8F%E7%99%BDdebug-yellow" alt="公众号"></a>
-  <a href="https://www.zhihu.com/people/jin-ji-de-ren-shan-ren"><img src="https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-%E5%B0%8F%E7%99%BDdebug-yellowgreen" alt="投稿"></a>
-  <a href="https://blog.csdn.net/ilini"><img src="https://img.shields.io/badge/csdn-CSDN-red.svg" alt="投稿"></a>
-  <a href="https://xiaobaidebug.top/"><img src="https://img.shields.io/badge/%E5%8D%9A%E5%AE%A2-%E5%B0%8F%E7%99%BDdebug-brightgreen" alt="博客"></a>
-
- <br>
-
 大家好，我是小白。大家知道，我一直以来都是`golang`的忠实粉丝，在学习和参与面试的过程中遇到过很多golang的问题。
 
 最近花了些时间整理了一下golang程序员成长路线和高频面试题，这是一份涵盖大部分golang程序员所需要掌握的**核心知识**。
@@ -46,8 +37,6 @@
 <img src="https://cdn.jsdelivr.net/gh/xiaobaiTech/image/%E6%89%AB%E7%A0%81_%E6%90%9C%E7%B4%A2%E8%81%94%E5%90%88%E4%BC%A0%E6%92%AD%E6%A0%B7%E5%BC%8F-%E6%A0%87%E5%87%86%E8%89%B2%E7%89%88.png" style="zoom:30%" />
 
 
-
-<img src="https://cdn.jsdelivr.net/gh/xiaobaiTech/image/%E6%98%9F%E6%A0%87%E5%B0%8F%E7%99%BDdebug.png" style="zoom:15%" />
 
 
 
