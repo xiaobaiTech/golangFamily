@@ -12,9 +12,7 @@
 
 </p>
 
-
-![](https://gitee.com/xiaobaiTech/image/raw/master/GO%E6%88%90%E9%95%BF%E8%B7%AF%E7%BA%BF_2022.png)
-
+![](https://cdn.jsdelivr.net/gh/xiaobaiTech/image/GO%E6%88%90%E9%95%BF%E8%B7%AF%E7%BA%BF_2022.png)
 
 
 [脑图持续不断更新中，在线查看地址](https://www.processon.com/view/link/5ff500aa1e08531de81e1288)  
