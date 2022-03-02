@@ -13,7 +13,7 @@
 </p>
 
 
-![](https://cdn.jsdelivr.net/gh/zhaolunallen/picture/2021-1-8/1610113159235-GO%E6%88%90%E9%95%BF%E8%B7%AF%E7%BA%BF.jpg)
+![](https://gitee.com/xiaobaiTech/image/raw/master/GO%E6%88%90%E9%95%BF%E8%B7%AF%E7%BA%BF_2022.png)
 
 
 
