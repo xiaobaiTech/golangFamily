@@ -74,10 +74,10 @@
   - 新手
     - [Golang开发新手常犯的50个错误](https://blog.csdn.net/gezhonglei2007/article/details/52237582)
   - 数据类型
-    - [连nil切片和空切片一不一样都不清楚？那BAT面试官只好让你回去等通知了。](https://mp.weixin.qq.com/s/sW4PD1MiaunURNDIU4BbQQ) 
-    - [golang面试题：字符串转成byte数组，会发生内存拷贝吗？](https://mp.weixin.qq.com/s/qmlPuGVISx8NYp2b9LrqnA)  
-    - [golang面试题：翻转含有中文、数字、英文字母的字符串](https://mp.weixin.qq.com/s/ssinnUM22PHPWRug8EzAkg)  
-    - [golang面试题：拷贝大切片一定比小切片代价大吗？](https://mp.weixin.qq.com/s/8Dp2eCYzDdBbxAG5-jNevQ) 
+    - [连nil切片和空切片一不一样都不清楚？那BAT面试官只好让你回去等通知了。](https://mp.weixin.qq.com/s/cp0xed7fC9uU0te00J8GIQ) 
+    - [golang面试题：字符串转成byte数组，会发生内存拷贝吗？](https://mp.weixin.qq.com/s/Iol3UnphVtBwGyLd-tHz9w)  
+    - [golang面试题：翻转含有中文、数字、英文字母的字符串](https://mp.weixin.qq.com/s/ayfn4LUy3MHJy37hdRlo3Q)  
+    - [golang面试题：拷贝大切片一定比小切片代价大吗？](https://mp.weixin.qq.com/s/VaM4yJXHYyDyRY0XHIyhpQ) 
     - map不初始化使用会怎么样
     - map不初始化长度和初始化长度的区别
     - map承载多大，大了怎么办
@@ -86,8 +86,8 @@
     - 怎么判断一个数组是否已经排序
     - 普通map如何不用锁解决协程安全问题
     - array和slice的区别
-    - [golang面试题：json包变量不加tag会怎么样？](https://mp.weixin.qq.com/s/bZlKV_BWSqc-qCa4DrsCbg) 
-    - [golang面试题：reflect（反射包）如何获取字段tag？为什么json包不能导出私有变量的tag？](https://mp.weixin.qq.com/s/P7TEx2mInwEktXTEE6JDWQ)
+    - [golang面试题：json包变量不加tag会怎么样？](https://mp.weixin.qq.com/s/vlE0KVOCt_a4nxP_1ar4Ow) 
+    - [golang面试题：reflect（反射包）如何获取字段tag？为什么json包不能导出私有变量的tag？](https://mp.weixin.qq.com/s/IB_hAzxBbAIYdLV7ZIN-sw)
     - 零切片、空切片、nil切片是什么
     - slice深拷贝和浅拷贝
     - map触发扩容的时机，满足什么条件时扩容？
@@ -116,8 +116,8 @@
        
     
   - 流程控制
-    - [昨天那个在for循环里append元素的同事，今天还在么？](https://mp.weixin.qq.com/s/SHxcspmiKyPwPBbhfVxsGA) 
-    - [golang面试官：for select时，如果通道已经关闭会怎么样？如果只有一个case呢？](https://mp.weixin.qq.com/s/Oa3eExufo2Req_9IrDys-g) 
+    - [昨天那个在for循环里append元素的同事，今天还在么？](https://mp.weixin.qq.com/s/DOkdl9B3op4US_qHBLUNNw) 
+    - [golang面试官：for select时，如果通道已经关闭会怎么样？如果只有一个case呢？](https://mp.weixin.qq.com/s/TuuLYgvIkwREDLkALqTMXA) 
     - go defer（for defer）
     - select可以用于什么？
     - context包的用途？  
@@ -131,9 +131,9 @@
     [学go mod就够了！](https://studygolang.com/articles/27293)
     
   - 优化
-    - [golang面试题：怎么避免内存逃逸？](https://mp.weixin.qq.com/s/VzRTHz1JaDUvNRVB_yJa1A) 
-    - [golang面试题：简单聊聊内存逃逸？](https://mp.weixin.qq.com/s/wJmztRMB1ZAAIItyMcS0tw) 
-    - [给大家丢脸了，用了三年golang，我还是没答对这道内存泄漏题](https://mp.weixin.qq.com/s/-agtdhlW7Yj7S88a0z7KHg)
+    - [golang面试题：怎么避免内存逃逸？](https://mp.weixin.qq.com/s/m4pqhfrEclG0vswedkCQ_Q) 
+    - [golang面试题：简单聊聊内存逃逸？](https://mp.weixin.qq.com/s/eqWFbwDcrL3zquEcGLgBGQ) 
+    - [给大家丢脸了，用了三年golang，我还是没答对这道内存泄漏题](https://mp.weixin.qq.com/s/9CZkq-Yc75VDwqjwriZYXA)
     - 内存碎片化问题
     - chan相关的goroutine泄露的问题
     - string相关的goroutine泄露的问题
@@ -143,8 +143,7 @@
     
     
   - 并发编程
-    - [golang面试题：对已经关闭的的chan进行读写，会怎么样？为什么？](https://mp.weixin.qq.com/s/izbZ3JRqX6jI6Wn7bV6xNQ) 
-    - [golang面试题：对未初始化的的chan进行读写，会怎么样？为什么？](https://mp.weixin.qq.com/s/ixJu0wrGXsCcGzveCqnr6A)  
+    - [golang面试题：对已经关闭的的chan进行读写，会怎么样？为什么？](https://mp.weixin.qq.com/s/6cgrWfNBLiU8bAwmJY7pGg) 
     - sync.map 的优缺点和使用场景
     - sync.Map的优化点
     - 主协程如何等其余协程完再操作
@@ -157,14 +156,14 @@
  
     
   - 高级特性
-    - [golang面试题：能说说uintptr和unsafe.Pointer的区别吗？](https://mp.weixin.qq.com/s/PSkz0zj-vqKzmIKa_b-xAA)
-    - [golang 面试题：reflect（反射包）如何获取字段 tag？为什么 json 包不能导出私有变量的 tag？](https://mp.weixin.qq.com/s/WK9StkC3Jfy-o1dUqlo7Dg)
+    - [golang面试题：能说说uintptr和unsafe.Pointer的区别吗？](https://mp.weixin.qq.com/s?__biz=MzkxNTU5MjE0MQ==&mid=2247492750&idx=1&sn=aafed552e01a3ebb61233f318bc9d6dc&source=41#wechat_redirect)
+    - [golang 面试题：reflect（反射包）如何获取字段 tag？为什么 json 包不能导出私有变量的 tag？](https://mp.weixin.qq.com/s?__biz=MzkxNTU5MjE0MQ==&mid=2247492754&idx=1&sn=9fb4360da097c81fe733ba48d3aca8a7&source=41#wechat_redirect)
     - 协程和线程的差别
     - 垃圾回收的过程是怎么样的？
     - 什么是写屏障、混合写屏障，如何实现？
     - 开源库里会有一些类似下面这种奇怪的用法：`var _ io.Writer = (*myWriter)(nil)`，是为什么？
     - [GMP模型](https://zboya.github.io/post/go_scheduler/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
-    - [动图图解，GMP里为什么要有P](https://mp.weixin.qq.com/s/SEE2TUeZQZ7W1BKkmnelAA)
+    - [动图图解，GMP里为什么要有P](https://mp.weixin.qq.com/s?__biz=MzkxNTU5MjE0MQ==&mid=2247492776&idx=1&sn=913a442965df4af86182f29fc6b8834d&source=41#wechat_redirect)
     - 协程之间是怎么调度的
     - gc的stw是怎么回事
     - 利用golang特性，设计一个QPS为500的服务器
@@ -220,17 +219,17 @@
     - [yaml转golang struct](https://yaml.to-go.online/)
     
 - 图解网络基础   
-  - [漫画图解HTTP知识点+面试题](https://mp.weixin.qq.com/s/wNRoDoW_VEqiq8JelePj2g) 
-  - [TCP粘包 数据包：我只是犯了每个数据包都会犯的错](https://mp.weixin.qq.com/s/0-YBxU1cSbDdzcZEZjmQYA) 
-  - [30张图带你搞懂！路由器，集线器，交换机，网桥，光猫有啥区别？](https://mp.weixin.qq.com/s/6eQ00Wzss61XUTO8xeL3iA) 
-  - [既然IP层会分片，为什么TCP层也还要分段？](https://mp.weixin.qq.com/s/YpQGsRyyrGNDu1cOuMy83w)
-  - [断网了，还能ping通 127.0.0.1 吗？为什么？](https://mp.weixin.qq.com/s/Gml_xxvGjq224L7zCoXm5w) 
-  - [连接一个 IP 不存在的主机时，握手过程是怎样的？](https://mp.weixin.qq.com/s/Czv0CxDKqr2QNItO4aNZMA) 
-  - [动图图解！代码执行send成功后，数据就发出去了吗？](https://mp.weixin.qq.com/s/87BZzLmcntA1snJIIhUR0w)
-  - [活久见！TCP两次挥手，你见过吗？那四次握手呢？](https://mp.weixin.qq.com/s/Z0EqSihRaRbMscrZJl-zxQ)
-  - [动图图解！收到RST，就一定会断开TCP连接吗？](https://mp.weixin.qq.com/s/Fr6o6gRiIUIspV9-jR9snw)
-  - [动图图解！没有accept，能建立TCP连接吗？](https://mp.weixin.qq.com/s/n17NjGRab1u5eXkOCro1gg)
-  - [来了来了！小白图解网络电子书和博客都来啦！](https://mp.weixin.qq.com/s/yZPorh6js8cq0_6FjfnGZA)
+  - [漫画图解HTTP知识点+面试题](https://mp.weixin.qq.com/s?__biz=MzkxNTU5MjE0MQ==&mid=2247492766&idx=1&sn=1f38b243670a836d7ab4068993378466&source=41#wechat_redirect) 
+  - [TCP粘包 数据包：我只是犯了每个数据包都会犯的错](https://mp.weixin.qq.com/s?__biz=MzkxNTU5MjE0MQ==&mid=2247492768&idx=1&sn=686087613bf6689e899b2cdb606ea780&source=41#wechat_redirect) 
+  - [30张图带你搞懂！路由器，集线器，交换机，网桥，光猫有啥区别？](https://mp.weixin.qq.com/s?__biz=MzkxNTU5MjE0MQ==&mid=2247492769&idx=1&sn=cdf3b1c5524860e438a9fbb7dbce82d4&source=41#wechat_redirect) 
+  - [既然IP层会分片，为什么TCP层也还要分段？](https://mp.weixin.qq.com/s/7kGFOOIV7-j-44U5RUcLRQ)
+  - [断网了，还能ping通 127.0.0.1 吗？为什么？](https://mp.weixin.qq.com/s?__biz=MzkxNTU5MjE0MQ==&mid=2247492808&idx=1&sn=491074589ccbd2e972a9ad216c39b46d&source=41#wechat_redirect) 
+  - [连接一个 IP 不存在的主机时，握手过程是怎样的？](https://mp.weixin.qq.com/s?__biz=MzkxNTU5MjE0MQ==&mid=2247492837&idx=1&sn=d85cb3a7e86ab244247f52e282b93954&source=41#wechat_redirect) 
+  - [动图图解！代码执行send成功后，数据就发出去了吗？](https://mp.weixin.qq.com/s?__biz=MzkxNTU5MjE0MQ==&mid=2247492863&idx=1&sn=67009c9e4387c0b789304af9e77cebec&source=41#wechat_redirect)
+  - [活久见！TCP两次挥手，你见过吗？那四次握手呢？](https://mp.weixin.qq.com/s?__biz=MzkxNTU5MjE0MQ==&mid=2247492883&idx=1&sn=cc526b3a34c30def4d655f05506c2826&source=41#wechat_redirect)
+  - [动图图解！收到RST，就一定会断开TCP连接吗？](https://mp.weixin.qq.com/s?__biz=MzkxNTU5MjE0MQ==&mid=2247492909&idx=1&sn=a0cdbe6e7497132f96c0d83716888cc5&source=41#wechat_redirect)
+  - [动图图解！没有accept，能建立TCP连接吗？]([https://mp.weixin.qq.com/s/n17NjGRab1u5eXkOCro1gg](https://mp.weixin.qq.com/s?__biz=MzkxNTU5MjE0MQ==&mid=2247492926&idx=1&sn=b6d254b5aa11ffaae093c919c1b1fab8&source=41#wechat_redirect))
+  - [来了来了！小白图解网络电子书和博客都来啦！](https://mp.weixin.qq.com/s?__biz=MzkxNTU5MjE0MQ==&mid=2247492941&idx=1&sn=47c95e0ec6bf3c679073a8fa6f1576fc&source=41#wechat_redirect)
   - HTTP 是无状态的吗？需要保持状态的场景应该怎么做？
   - 粘包如何解决
   - RestFul 是什么？RestFul 请求的 URL 有什么特点？
