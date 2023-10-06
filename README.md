@@ -35,7 +35,7 @@
 
 如果大家看完电子书，觉得内容还不错，强烈希望大家能在**微信公众号**里搜索关注，并**星标**我的公众号，第一时间获取最新更新内容！
 
-<img src="https://cdn.jsdelivr.net/gh/xiaobaiTech/image/%E6%89%AB%E7%A0%81_%E6%90%9C%E7%B4%A2%E8%81%94%E5%90%88%E4%BC%A0%E6%92%AD%E6%A0%B7%E5%BC%8F-%E6%A0%87%E5%87%86%E8%89%B2%E7%89%88.png" style="zoom:30%" />
+<img src="https://cdn.xiaobaidebug.top/1696560465663.jpeg" style="zoom:30%" />
 
 
 
