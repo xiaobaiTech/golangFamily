@@ -58,8 +58,8 @@
 
 ### 最后
 
-- 欢迎大家访问我的**博客** (点这里)[https://xiaobaidebug.top/](https://xiaobaidebug.top/] 。
-- 欢迎大家访问我的**B站** (点这里)[https://space.bilibili.com/302188068] 。
+- 欢迎大家访问我的**博客** [点这里](https://xiaobaidebug.top/](https://xiaobaidebug.top/)。
+- 欢迎大家访问我的**B站** [点这里](https://space.bilibili.com/302188068) 。
 - 在公众号内回复【**面试**】，可以获得整理的**golang面试PDF电子书**，适合快速备战面试查漏补缺。
 - 在公众号内回复【**网络**】，可以获得整理的**图解PDF电子书**，适合巩固基础。
 - 在公众号内回复【**视频**】，可以获得整理的有趣好玩的**视频教程**，适合小白上路。
