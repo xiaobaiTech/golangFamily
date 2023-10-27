@@ -144,7 +144,8 @@
     
     
   - 并发编程
-    - [golang面试题：对已经关闭的的chan进行读写，会怎么样？为什么？](https://mp.weixin.qq.com/s/6cgrWfNBLiU8bAwmJY7pGg) 
+    - [golang面试题：对已经关闭的的chan进行读写，会怎么样？为什么？](https://mp.weixin.qq.com/s/6cgrWfNBLiU8bAwmJY7pGg)
+    - [golang面试题：对未初始化的的chan进行读写，会怎么样？为什么？](https://xiaobaidebug.top/2020/06/11/golang%E9%9D%A2%E8%AF%95%E9%A2%98/golang%E9%9D%A2%E8%AF%95%E9%A2%98%EF%BC%9A%E5%AF%B9%E6%9C%AA%E5%88%9D%E5%A7%8B%E5%8C%96%E7%9A%84%E7%9A%84chan%E8%BF%9B%E8%A1%8C%E8%AF%BB%E5%86%99%EF%BC%8C%E4%BC%9A%E6%80%8E%E4%B9%88%E6%A0%B7%EF%BC%9F%E4%B8%BA%E4%BB%80%E4%B9%88%EF%BC%9F/) 
     - sync.map 的优缺点和使用场景
     - sync.Map的优化点
     - 主协程如何等其余协程完再操作
