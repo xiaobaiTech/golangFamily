@@ -190,6 +190,7 @@
     - Golang 触发异常的场景有哪些?
     - net/http包中client如何实现长连接？
     - net/http怎么做连接池和长链接？
+    - [golang进阶面试题](https://golangguide.top/golang/%E9%9D%A2%E8%AF%95%E9%A2%98/2.Go%E8%BF%9B%E9%98%B6.html)
     
   - 问题排查
     - [trace](https://mp.weixin.qq.com/s?__biz=MzA4ODg0NDkzOA==&mid=2247487157&idx=1&sn=cbf1c87efe98433e07a2e58ee6e9899e&source=41#wechat_redirect) 
