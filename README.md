@@ -59,7 +59,7 @@
 ### 最后
 - 不满足于看八股文，可以尝试拿着岗位要求来进行ai押题。[押题宝](https://yatibao.debuger.top/)
 - 基础不牢，缺乏实战项目，**想快速成为中大厂Go/Java工程师**？后端训练营了解一下。[后端训练营介绍文档](https://bds8bsueoz.feishu.cn/docx/Soo1dyKwJovEjcx95RbcixCqnmh)
-- 欢迎大家访问我的**博客** [点这里](https://xiaobaidebug.top/](https://xiaobaidebug.top/)。
+- 欢迎大家访问我的**博客** [点这里 https://xiaobaidebug.top](https://xiaobaidebug.top/)。
 - 欢迎大家访问我的**B站** [点这里](https://space.bilibili.com/302188068) 。
 - 在公众号内回复【**面试**】，可以获得整理的**golang面试PDF电子书**，适合快速备战面试查漏补缺。
 - 在公众号内回复【**网络**】，可以获得整理的**图解PDF电子书**，适合巩固基础。
@@ -222,9 +222,9 @@
     - [yaml转golang struct](https://yaml.to-go.online/)
     
 - 图解网络基础   
-  - [漫画图解HTTP知识点+面试题](https://mp.weixin.qq.com/s?__biz=MzkxNTU5MjE0MQ==&mid=2247492766&idx=1&sn=1f38b243670a836d7ab4068993378466&source=41#wechat_redirect) 
-  - [TCP粘包 数据包：我只是犯了每个数据包都会犯的错](https://mp.weixin.qq.com/s?__biz=MzkxNTU5MjE0MQ==&mid=2247492768&idx=1&sn=686087613bf6689e899b2cdb606ea780&source=41#wechat_redirect) 
-  - [30张图带你搞懂！路由器，集线器，交换机，网桥，光猫有啥区别？](https://mp.weixin.qq.com/s?__biz=MzkxNTU5MjE0MQ==&mid=2247492769&idx=1&sn=cdf3b1c5524860e438a9fbb7dbce82d4&source=41#wechat_redirect) 
+  - [漫画图解HTTP知识点+面试题](https://golangguide.top/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80/%E7%BD%91%E7%BB%9C%E5%9F%BA%E7%A1%80/%E6%A0%B8%E5%BF%83%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%A1%AC%E6%A0%B8%EF%BC%81%E6%BC%AB%E7%94%BB%E5%9B%BE%E8%A7%A3HTTP%E7%9F%A5%E8%AF%86%E7%82%B9_%E9%9D%A2%E8%AF%95%E9%A2%98.html) 
+  - [TCP粘包 数据包：我只是犯了每个数据包都会犯的错](https://golangguide.top/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80/%E7%BD%91%E7%BB%9C%E5%9F%BA%E7%A1%80/%E6%A0%B8%E5%BF%83%E7%9F%A5%E8%AF%86%E7%82%B9/TCP%E7%B2%98%E5%8C%85%EF%BC%81%E6%95%B0%E6%8D%AE%E5%8C%85%EF%BC%9A%E6%88%91%E5%8F%AA%E6%98%AF%E7%8A%AF%E4%BA%86%E6%AF%8F%E4%B8%AA%E6%95%B0%E6%8D%AE%E5%8C%85%E9%83%BD%E4%BC%9A%E7%8A%AF%E7%9A%84%E9%94%99%EF%BC%8C%E7%A1%AC%E6%A0%B8%E5%9B%BE%E8%A7%A3.html) 
+  - [30张图带你搞懂！路由器，集线器，交换机，网桥，光猫有啥区别？](https://golangguide.top/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80/%E7%BD%91%E7%BB%9C%E5%9F%BA%E7%A1%80/%E6%A0%B8%E5%BF%83%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%A1%AC%E6%A0%B8%E5%9B%BE%E8%A7%A3%EF%BC%8130%E5%BC%A0%E5%9B%BE%E5%B8%A6%E4%BD%A0%E6%90%9E%E6%87%82%EF%BC%81%E8%B7%AF%E7%94%B1%E5%99%A8%EF%BC%8C%E9%9B%86%E7%BA%BF%E5%99%A8%EF%BC%8C%E4%BA%A4%E6%8D%A2%E6%9C%BA%EF%BC%8C%E7%BD%91%E6%A1%A5%EF%BC%8C%E5%85%89%E7%8C%AB%E6%9C%89%E5%95%A5%E5%8C%BA%E5%88%AB%EF%BC%9F.html) 
   - [既然IP层会分片，为什么TCP层也还要分段？](https://mp.weixin.qq.com/s/7kGFOOIV7-j-44U5RUcLRQ)
   - [断网了，还能ping通 127.0.0.1 吗？为什么？](https://mp.weixin.qq.com/s?__biz=MzkxNTU5MjE0MQ==&mid=2247492808&idx=1&sn=491074589ccbd2e972a9ad216c39b46d&source=41#wechat_redirect) 
   - [连接一个 IP 不存在的主机时，握手过程是怎样的？](https://mp.weixin.qq.com/s?__biz=MzkxNTU5MjE0MQ==&mid=2247492837&idx=1&sn=d85cb3a7e86ab244247f52e282b93954&source=41#wechat_redirect) 
