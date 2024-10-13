@@ -61,6 +61,7 @@
 - 基础不牢，缺乏实战项目，**想快速成为中大厂Go/Java工程师**？后端训练营了解一下。[后端训练营介绍文档](https://bds8bsueoz.feishu.cn/docx/Soo1dyKwJovEjcx95RbcixCqnmh)
 - 欢迎大家访问我的**博客** [点这里 https://xiaobaidebug.top](https://xiaobaidebug.top/)。
 - 欢迎大家访问我的**B站** [点这里](https://space.bilibili.com/302188068) 。
+- 欢迎大家访问我新做的**工具站点** [图片翻译photo-translate](https://www.photo-translate.top) 。
 - 在公众号内回复【**面试**】，可以获得整理的**golang面试PDF电子书**，适合快速备战面试查漏补缺。
 - 在公众号内回复【**网络**】，可以获得整理的**图解PDF电子书**，适合巩固基础。
 - 在公众号内回复【**视频**】，可以获得整理的有趣好玩的**视频教程**，适合小白上路。
