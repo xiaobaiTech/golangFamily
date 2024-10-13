@@ -1145,6 +1145,7 @@
 |   [stegify](https://github.com/DimitarPetrov/stegify) |  用于LSB隐写术的Go工具，能够隐藏图像中的任何文件。| 
 |   [svgo](https://github.com/ajstarks/svgo) |  用于SVG生成的Go语言库。| 
 |   [tga](https://github.com/ftrvxmtrx/tga) |  软件包tga是TARGA图像格式的解码器/编码器。| 
+|   [photo-translate](https://www.photo-translate.top/) |  图片翻译。| 
 
 - 物联网
 <a name="物联网"></a>  <a name="物联网"></a> 
